@@ -3,10 +3,10 @@
 ## Web application for Recommending Places to Visit
 This project is a web application using streamlit contains machine learning model that recommends places to visit based on user input. 
 
-###places_dataset:
+### places_dataset:
 It uses a dataset of place reviews and ratings to identify popular places, and then uses the OpenCage API to obtain latitude and longitude coordinates for each place. The resulting dataset is saved as a CSV file called unique_places.csv.
 
-#Streamlit Web application:
+# Streamlit Web application:
 The user can input the name of a city and the number of days they plan to stay there. Output displays a map of the city with markers for the closest recommended places to visit. The markers are color-coded based on the number of days recommended to spend at each location.
 
 ## Getting Started
