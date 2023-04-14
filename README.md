@@ -1,6 +1,6 @@
 # Project-1-Feynn-labs-Trip-planner-using-Streamlit
 
-## Web application to plan a trip with user requirements such as city and number of days
+## Web application to plan a trip with user's required city and number of days to stay
 This project is a web application using streamlit contains machine learning model that produce trip schedule to visit places based on user input. 
 
 ### places_dataset:
