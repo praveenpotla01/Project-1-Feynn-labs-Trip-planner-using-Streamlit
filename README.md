@@ -19,8 +19,8 @@ streamlit
 You can install these dependencies using pip:
 **pip install pandas opencage folium streamlit streamlit-folium**
 
-Once you have installed the dependencies, you can run the places dataset.ipynb notebook to generate the unique_places.csv file. Then, you can run run the project with run streamlit command to generate user interface which asks user to enter city and days required  then it will produce a Trip schedule shortest path map.
+Once you have installed the dependencies, you can run the places dataset.ipynb notebook to generate the unique_places.csv file. Then, you can run the project with run streamlit command to generate user interface which asks user to enter city and days required  then it will produce a Trip schedule shortest path map.
 
 
 ## Example Map image when user selected City=Hyderabad and Days=4
-![example image](Trip_Planner.png "Trip Planner Image")
+![example image](stream.png "Trip Planner Image")
