@@ -1,7 +1,7 @@
 # Project-1-Feynn-labs-Trip-planner-using-Streamlit
 
 ## Web application to plan a trip with user's required city and number of days to stay
-This project is a web application using streamlit contains machine learning model that produce trip schedule to visit places based on user input. 
+This project is a web application using streamlit contains **machine learning model** uses **K-means** that produce trip schedule to visit places based on user input. 
 
 ### places_dataset:
 It uses a dataset of place reviews and ratings to identify popular places, and then uses the OpenCage API to obtain latitude and longitude coordinates for each place. The resulting dataset is saved as a CSV file called unique_places.csv.
